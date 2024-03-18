@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583056892337",
+    "project_id": "registerlogin-6bf62",
+    "storage_bucket": "registerlogin-6bf62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583056892337:android:d3539fbe8650d89fff5d90",
+        "android_client_info": {
+          "package_name": "com.example.signup_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4W9r7gVVCNwc_jCF_Ygdbmdx3m8vS9Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
